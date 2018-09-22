@@ -1,3 +1,7 @@
+// Author : Shanu Dey
+// publlished at 22 Sept, 2018
+// url : https://github.com/ShanuDey/SingleLinkedList/
+// complete program for single linked list code in c language
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
